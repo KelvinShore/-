@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/atguigu-project-ct.iml" filepath="$PROJECT_DIR$/atguigu-project-ct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct-20190105/ct-20190105.iml" filepath="$PROJECT_DIR$/ct-20190105/ct-20190105.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct-analysis/ct-analysis.iml" filepath="$PROJECT_DIR$/ct-analysis/ct-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct-cache-ext/ct-cache-ext.iml" filepath="$PROJECT_DIR$/ct-cache-ext/ct-cache-ext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct-common/ct-common.iml" filepath="$PROJECT_DIR$/ct-common/ct-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct-consumer/ct-consumer.iml" filepath="$PROJECT_DIR$/ct-consumer/ct-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct-consumer-coprocessor/ct-consumer-coprocessor.iml" filepath="$PROJECT_DIR$/ct-consumer-coprocessor/ct-consumer-coprocessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct-producer/ct-producer.iml" filepath="$PROJECT_DIR$/ct-producer/ct-producer.iml" />
+    </modules>
+  </component>
+</project>

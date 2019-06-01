@@ -1,0 +1,4 @@
+com\atguigu\ct\consumer\bean\Calllog.class
+com\atguigu\ct\consumer\bean\CalllogConsumer.class
+com\atguigu\ct\consumer\dao\HBaseDao.class
+com\atguigu\ct\consumer\Bootstrap.class

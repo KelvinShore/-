@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Class-Path: protobuf-java-2.5.0.jar jackson-mapper-asl-1.9.13.jar jett
+ ison-1.1.jar hbase-protocol-1.3.1.jar hadoop-common-2.5.1.jar jamon-r
+ untime-2.4.1.jar httpcore-4.1.2.jar jetty-6.1.26.jar junit-4.12.jar h
+ base-annotations-1.3.1.jar snappy-java-1.0.4.1.jar joni-2.1.2.jar jet
+ s3t-0.9.0.jar guice-3.0.jar hbase-hadoop-compat-1.3.1.jar commons-io-
+ 2.4.jar commons-httpclient-3.1.jar netty-all-4.0.23.Final.jar servlet
+ -api-2.5-6.1.14.jar hadoop-mapreduce-client-shuffle-2.5.1.jar commons
+ -beanutils-1.7.0.jar avro-1.7.4.jar jersey-json-1.9.jar hbase-server-
+ 1.3.1.jar slf4j-log4j12-1.6.1.jar hadoop-yarn-api-2.5.1.jar apacheds-
+ i18n-2.0.0-M15.jar commons-compress-1.4.1.jar jersey-guice-1.9.jar je
+ rsey-client-1.9.jar guice-servlet-3.0.jar commons-math-2.2.jar common
+ s-beanutils-core-1.8.0.jar jaxb-impl-2.2.3-1.jar jsch-0.1.42.jar hbas
+ e-common-1.3.1.jar api-asn1-api-1.0.0-M20.jar leveldbjni-all-1.8.jar 
+ hadoop-mapreduce-client-app-2.5.1.jar hadoop-hdfs-2.5.1.jar commons-c
+ odec-1.9.jar zookeeper-3.4.6.jar jetty-sslengine-6.1.26.jar hbase-pre
+ fix-tree-1.3.1.jar commons-collections-3.2.2.jar hadoop-yarn-server-c
+ ommon-2.5.1.jar commons-configuration-1.6.jar java-xmlbuilder-0.4.jar
+  commons-lang-2.6.jar jsp-2.1-6.1.14.jar httpclient-4.2.5.jar log4j-1
+ .2.17.jar commons-net-3.1.jar jackson-xc-1.8.3.jar guava-12.0.1.jar j
+ asper-runtime-5.5.23.jar slf4j-api-1.7.2.jar commons-el-1.0.jar hadoo
+ p-client-2.5.1.jar jsp-api-2.1-6.1.14.jar commons-daemon-1.0.13.jar h
+ base-common-1.3.1-tests.jar findbugs-annotations-1.3.9-1.jar hadoop-m
+ apreduce-client-jobclient-2.5.1.jar hadoop-yarn-common-2.5.1.jar disr
+ uptor-3.3.0.jar stax-api-1.0-2.jar hadoop-mapreduce-client-core-2.5.1
+ .jar api-util-1.0.0-M20.jar asm-3.1.jar javax.inject-1.jar hadoop-aut
+ h-2.5.1.jar commons-cli-1.2.jar htrace-core-3.1.0-incubating.jar xmle
+ nc-0.52.jar jetty-util-6.1.26.jar xz-1.0.jar servlet-api-2.5.jar hado
+ op-mapreduce-client-common-2.5.1.jar apacheds-kerberos-codec-2.0.0-M1
+ 5.jar hbase-client-1.3.1.jar jersey-core-1.9.jar hbase-hadoop2-compat
+ -1.3.1.jar hadoop-annotations-2.5.1.jar hadoop-yarn-client-2.5.1.jar 
+ paranamer-2.3.jar aopalliance-1.0.jar hamcrest-core-1.3.jar commons-d
+ igester-1.8.jar jaxb-api-2.2.2.jar activation-1.1.jar jackson-jaxrs-1
+ .9.13.jar jackson-core-asl-1.9.13.jar jcodings-1.0.8.jar tools.jar me
+ trics-core-2.2.0.jar commons-logging-1.2.jar jersey-server-1.9.jar ja
+ sper-compiler-5.5.23.jar hbase-procedure-1.3.1.jar commons-math3-3.1.
+ 1.jar
+Main-Class: com.atguigu.ct.producer.Bootstrap
+
